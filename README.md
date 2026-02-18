@@ -1,6 +1,6 @@
 # Interactive Distributed Service Performance Simulator
 
-An interactive simulation tool for studying how service systems behave under stochastic workloads using an M/M/1 queueing model.
+An interactive simulation tool for studying how service systems behave under stochastic workloads using an **M/M/1 queueing model**.
 
 This project explores the relationship between system utilization, queue formation, and response-time degradation — phenomena commonly observed in backend and distributed service environments.
 
@@ -30,11 +30,11 @@ The simulator implements an **M/M/1 queue** with:
 
 System utilization:
 
-[
-\rho = \frac{\lambda}{\mu}
-]
+```
+ρ = λ / μ
+```
 
-Performance degradation is analyzed as ( \rho \rightarrow 1 ).
+Performance degradation is analyzed as utilization approaches 1.
 
 ---
 
