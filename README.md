@@ -2,7 +2,7 @@
 
 An interactive simulation tool for studying how service systems behave under stochastic workloads using an **M/M/1 queueing model**.
 
-This project explores the relationship between system utilization, queue formation, and response-time degradation — phenomena commonly observed in backend and distributed service environments.
+This project explores the relationship between system utilization, queue formation, and response-time degradation phenomena commonly observed in backend and distributed service environments.
 
 ---
 
