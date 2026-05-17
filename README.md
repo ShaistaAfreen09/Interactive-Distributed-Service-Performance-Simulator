@@ -154,6 +154,8 @@ The simulator focuses on observing emergent performance behavior as utilization 
 * Streamlit
 * Cloud-native observability UI patterns
 
+* https://interactive-distributed-service-performance-simulator-4yjsyrmg.streamlit.app/
+
 ---
 
 ## Repository Structure
